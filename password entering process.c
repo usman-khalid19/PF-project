@@ -25,4 +25,11 @@ int main ()
 			break;
 		}
 	}
+	printf("Select your operations:\n");
+	printf("(1) register\n(2) check details of base\n(3) inventory\n(4)  recruits");
+	switch(option)
+	{
+		case(1):
+			
+	}
 }
